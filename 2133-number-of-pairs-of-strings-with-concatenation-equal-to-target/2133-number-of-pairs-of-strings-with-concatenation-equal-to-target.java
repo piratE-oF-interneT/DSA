@@ -9,16 +9,12 @@ class Solution {
                 if(nums[i].concat(nums[j]).equals(target)){
                     count++;
                 }
-            }
-        }
-        for(int i=nums.length-1;i>=0;i--){
-
-            for(int j=i-1;j>=0;j--){
-                if(nums[i].concat(nums[j]).equals(target)){
+                if(nums[j].concat(nums[i]).equals(target)){
                     count++;
                 }
             }
         }
+        
         return count;
         
     }
