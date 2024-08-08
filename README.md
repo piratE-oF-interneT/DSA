@@ -23,9 +23,14 @@
 ## String
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/piratE-oF-interneT/DSA/tree/master/0541-reverse-string-ii) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/piratE-oF-interneT/DSA/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Counting
 |  |
 | ------- |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/piratE-oF-interneT/DSA/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+## Two Pointers
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/piratE-oF-interneT/DSA/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
